@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>XNDStuffedFlaks</identifier>
+  <version>1.0.0.0</version>
+  <dependencies />
+  <incompatibleWith />
+  <loadBefore />
+  <loadAfter />
+  <manifestUri>https://raw.githubusercontent.com/emipa606/XNDStuffedFlaks/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/XNDStuffedFlaks/releases</downloadUri>
+</Manifest>
+
