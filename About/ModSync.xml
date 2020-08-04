@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>abc80153-4f93-4caf-b1c2-a2ac04219518</ID>
   <ModName>[XND] Stuffed Flaks (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,6 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
