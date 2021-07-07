@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[XND] Stuffed Flaks (Continued)</name>
   <packageId>Mlie.XNDStuffedFlaks</packageId>
@@ -8,51 +8,104 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of XeoNovaDans mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of XeoNovaDans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1133818670
 
-[img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Support-chat:
-https://discord.gg/SuhwVpM
-
-Non-steam version:
-https://github.com/emipa606/XNDStuffedFlaks
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/XNDStuffedFlaks][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-Direct download from GitHub[github.com] (source[github.com])
+[img]https://i.imgur.com/NOW7jU1.png[/img]
 
-Compatibility
+[h1][b]Compatibility[/b][/h1]
 This mod will be redundant if you have Combat Extended active since this mod does basically the same thing to materials and armor vests as that does, albeit with a different spin on balance.
 
 Not save-friendly; a new game has to be started for this to function properly, or alternatively save editing if adding this to an existing save.
 
 If you find any bugs, please link me to a full output log and give some basic information on how you triggered the bug; this is vital information for me to be able to fix said bugs.
 
-Overview
-Stuffed Flaks is a very simple mod that allows you to make Flak Vests, Flak Pants and Flak Jackets out of any 'Metallic' material in the game, whether it be vanilla or modded. Flak equipment will retain their old insulation ratings, but their base armor ratings have been replaced with the 'Material Effectiveness Multiplier' system.
+[h1][b]Overview[/b][/h1]
+Stuffed Flaks is a very simple mod that allows you to make Flak Vests, Flak Pants and Flak Jackets out of any &apos;Metallic&apos; material in the game, whether it be vanilla or modded. Flak equipment will retain their old insulation ratings, but their base armor ratings have been replaced with the &apos;Material Effectiveness Multiplier&apos; system.
 
-Stuffed Flaks are currently balanced as follows:
-Flak Vest - 1x material effectiveness multiplier
-Flak Pants - 0.4x material effectiveness multiplier
-Flak Jacket - 0.6x material effectiveness multiplier
+[b]Stuffed Flaks are currently balanced as follows:[/b][list]
+[*][b]Flak Vest - [/b]1x material effectiveness multiplier
+[*][b]Flak Pants - [/b]0.4x material effectiveness multiplier
+[*][b]Flak Jacket - [/b]0.6x material effectiveness multiplier
+[/list]
 
 As for how these changes are reflected in actual gameplay, this is how the resistance stats (Sharp / Blunt / Heat) for each piece of flak equipment equipment compares to vanilla per material:
 
-Material	Vest	Pants	Jacket
-Vanilla	100 / 36 / 27	40 / 8 / 10	40 / 8 / 10
-Steel	90 / 45 / 72	36 / 18 / 29	54 / 27 / 43
-Plasteel	126 / 63 / 108	50 / 25 / 43	76 / 38 / 65
-Uranium	108 / 54 / 90	43 / 22 / 36	65 / 32 / 54
-Silver	72 / 36 / 36	29 / 14 / 14	43 / 22 / 22
-Gold	72 / 36 / 36	29 / 14 / 14	43 / 22 / 22
+[table]
+[tr]
+[th]Material[/th]
+[th]Vest[/th]
+[th]Pants[/th]
+[th]Jacket[/th]
+[/tr]
+[tr]
+[th]Vanilla[/th]
+[td]100 / 36 / 27[/td]
+[td]40 / 8 / 10[/td]
+[td]40 / 8 / 10[/td]
+[/tr]
+[tr]
+[th]Steel[/th]
+[td]90 / 45 / 72[/td]
+[td]36 / 18 / 29[/td]
+[td]54 / 27 / 43[/td]
+[/tr]
+[tr]
+[th]Plasteel[/th]
+[td]126 / 63 / 108[/td]
+[td]50 / 25 / 43[/td]
+[td]76 / 38 / 65[/td]
+[/tr]
+[tr]
+[th]Uranium[/th]
+[td]108 / 54 / 90[/td]
+[td]43 / 22 / 36[/td]
+[td]65 / 32 / 54[/td]
+[/tr]
+[tr]
+[th]Silver[/th]
+[td]72 / 36 / 36[/td]
+[td]29 / 14 / 14[/td]
+[td]43 / 22 / 22[/td]
+[/tr]
+[tr]
+[th]Gold[/th]
+[td]72 / 36 / 36[/td]
+[td]29 / 14 / 14[/td]
+[td]43 / 22 / 22[/td]
+[/tr]
+[/table]
 
-Credits
+[h1][b]Credits[/b][/h1]
 Marnador for the RimWorld-style font.
 
-License
-As is standard with my mods: you may include this mod in a mod pack, and you may derive from this, but please inform me if you're doing so through Ludeon Forums (preferably) or the Steam Comments Section, and give credit where credit's due.</description>
+[h1][b]License[/b][/h1]
+As is standard with my mods: you may include this mod in a mod pack, and you may derive from this, but please inform me if you&apos;re doing so through Ludeon Forums (preferably) or the Steam Comments Section, and give credit where credit&apos;s due.
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
