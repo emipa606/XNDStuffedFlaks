@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[XND] Stuffed Flaks (Continued)</name>
   <packageId>Mlie.XNDStuffedFlaks</packageId>
@@ -12,20 +12,24 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of XeoNovaDans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1133818670
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/XNDStuffedFlaks][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 [h1][b]Compatibility[/b][/h1]
 This mod will be redundant if you have Combat Extended active since this mod does basically the same thing to materials and armor vests as that does, albeit with a different spin on balance.
@@ -35,7 +39,7 @@ Not save-friendly; a new game has to be started for this to function properly, o
 If you find any bugs, please link me to a full output log and give some basic information on how you triggered the bug; this is vital information for me to be able to fix said bugs.
 
 [h1][b]Overview[/b][/h1]
-Stuffed Flaks is a very simple mod that allows you to make Flak Vests, Flak Pants and Flak Jackets out of any &apos;Metallic&apos; material in the game, whether it be vanilla or modded. Flak equipment will retain their old insulation ratings, but their base armor ratings have been replaced with the &apos;Material Effectiveness Multiplier&apos; system.
+Stuffed Flaks is a very simple mod that allows you to make Flak Vests, Flak Pants and Flak Jackets out of any 'Metallic' material in the game, whether it be vanilla or modded. Flak equipment will retain their old insulation ratings, but their base armor ratings have been replaced with the 'Material Effectiveness Multiplier' system.
 
 [b]Stuffed Flaks are currently balanced as follows:[/b][list]
 [*][b]Flak Vest - [/b]1x material effectiveness multiplier
@@ -94,10 +98,10 @@ As for how these changes are reflected in actual gameplay, this is how the resis
 Marnador for the RimWorld-style font.
 
 [h1][b]License[/b][/h1]
-As is standard with my mods: you may include this mod in a mod pack, and you may derive from this, but please inform me if you&apos;re doing so through Ludeon Forums (preferably) or the Steam Comments Section, and give credit where credit&apos;s due.
+As is standard with my mods: you may include this mod in a mod pack, and you may derive from this, but please inform me if you're doing so through Ludeon Forums (preferably) or the Steam Comments Section, and give credit where credit's due.
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -108,4 +112,3 @@ As is standard with my mods: you may include this mod in a mod pack, and you may
 [/list]
 </description>
 </ModMetaData>
-
