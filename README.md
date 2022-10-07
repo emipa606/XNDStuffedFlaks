@@ -1,23 +1,14 @@
 # XNDStuffedFlaks
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of XeoNovaDans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1133818670
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/XNDStuffedFlaks]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 # **Compatibility**
@@ -30,7 +21,7 @@ If you find any bugs, please link me to a full output log and give some basic in
 
 # **Overview**
 
-Stuffed Flaks is a very simple mod that allows you to make Flak Vests, Flak Pants and Flak Jackets out of any &apos;Metallic&apos; material in the game, whether it be vanilla or modded. Flak equipment will retain their old insulation ratings, but their base armor ratings have been replaced with the &apos;Material Effectiveness Multiplier&apos; system.
+Stuffed Flaks is a very simple mod that allows you to make Flak Vests, Flak Pants and Flak Jackets out of any 'Metallic' material in the game, whether it be vanilla or modded. Flak equipment will retain their old insulation ratings, but their base armor ratings have been replaced with the 'Material Effectiveness Multiplier' system.
 
 **Stuffed Flaks are currently balanced as follows:**
 
@@ -93,10 +84,10 @@ Marnador for the RimWorld-style font.
 
 # **License**
 
-As is standard with my mods: you may include this mod in a mod pack, and you may derive from this, but please inform me if you&apos;re doing so through Ludeon Forums (preferably) or the Steam Comments Section, and give credit where credit&apos;s due.
+As is standard with my mods: you may include this mod in a mod pack, and you may derive from this, but please inform me if you're doing so through Ludeon Forums (preferably) or the Steam Comments Section, and give credit where credit's due.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -106,6 +97,7 @@ As is standard with my mods: you may include this mod in a mod pack, and you may
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
