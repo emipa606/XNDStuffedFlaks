@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="Apparel_FlakGloves"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationRemove">
+          <xpath>/Defs/ThingDef[defName="Apparel_FlakGloves" or defName="Apparel_FlakMask" or defName="Apparel_FlakBoots" or defName="FlakShirt" or defName="LightFlakVest" or defName="HeavyFlakSuit"]/costList/Steel</xpath>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="Apparel_FlakGloves"]</xpath>
+          <value>
+            <costStuffCount>15</costStuffCount>
+            <stuffCategories>
+              <li>Metallic</li>
+            </stuffCategories>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="Apparel_FlakMask"]</xpath>
+          <value>
+            <costStuffCount>35</costStuffCount>
+            <stuffCategories>
+              <li>Metallic</li>
+            </stuffCategories>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="Apparel_FlakBoots" or defName="FlakShirt"]</xpath>
+          <value>
+            <costStuffCount>20</costStuffCount>
+            <stuffCategories>
+              <li>Metallic</li>
+            </stuffCategories>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="LightFlakVest"]</xpath>
+          <value>
+            <costStuffCount>40</costStuffCount>
+            <stuffCategories>
+              <li>Metallic</li>
+            </stuffCategories>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="HeavyFlakSuit"]</xpath>
+          <value>
+            <costStuffCount>120</costStuffCount>
+            <stuffCategories>
+              <li>Metallic</li>
+            </stuffCategories>
+          </value>
+        </li>
+        <li Class="PatchOperationRemove">
+          <xpath>/Defs/ThingDef[defName="Apparel_FlakGloves" or defName="Apparel_FlakMask" or defName="Apparel_FlakBoots" or defName="FlakShirt" or defName="LightFlakVest" or defName="HeavyFlakSuit"]/statBases/ArmorRating_Sharp</xpath>
+        </li>
+        <li Class="PatchOperationRemove">
+          <xpath>/Defs/ThingDef[defName="Apparel_FlakGloves" or defName="Apparel_FlakMask" or defName="Apparel_FlakBoots" or defName="FlakShirt" or defName="LightFlakVest" or defName="HeavyFlakSuit"]/statBases/ArmorRating_Blunt</xpath>
+        </li>
+        <li Class="PatchOperationRemove">
+          <xpath>/Defs/ThingDef[defName="Apparel_FlakGloves" or defName="Apparel_FlakMask" or defName="Apparel_FlakBoots" or defName="FlakShirt" or defName="LightFlakVest" or defName="HeavyFlakSuit"]/statBases/ArmorRating_Heat</xpath>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName="Apparel_FlakMask" or defName="HeavyFlakSuit"]/statBases</xpath>
+          <value>
+            <StuffEffectMultiplierArmor>1</StuffEffectMultiplierArmor>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName="FlakShirt"]/statBases</xpath>
+          <value>
+            <StuffEffectMultiplierArmor>0.4</StuffEffectMultiplierArmor>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName="Apparel_FlakGloves" or defName="Apparel_FlakBoots" or defName="LightFlakVest"]/statBases</xpath>
+          <value>
+            <StuffEffectMultiplierArmor>0.6</StuffEffectMultiplierArmor>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
