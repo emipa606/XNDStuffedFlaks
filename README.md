@@ -5,6 +5,8 @@
 Update of XeoNovaDans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1133818670
 
+- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2464804318]Midworld Expanded: Flak Armor
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	
